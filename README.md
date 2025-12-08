@@ -2,7 +2,7 @@
 
 A professional-grade backtesting platform for evaluating multiple technical trading strategies against historical stock data. Built with Python and Streamlit, this application allows traders and analysts to compare strategy performance metrics and visualize trade signals.
 
-**[➡️ View the Live Demo Here]()**
+**[➡️ View the Live Demo Here](https://advancedbacktester-kivmh4ue47nxqfcbncmrgf.streamlit.app/)**
 
 ---
 
