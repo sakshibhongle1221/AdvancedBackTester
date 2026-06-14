@@ -31,7 +31,7 @@ A professional-grade backtesting platform for evaluating multiple technical trad
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Saraid10/stock-backtester.git
+    git clone https://github.com/sakshibhongle1221/AdvancedBackTester
     cd stock-backtester
     ```
 
